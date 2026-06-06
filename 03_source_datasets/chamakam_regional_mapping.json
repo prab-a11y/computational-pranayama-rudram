@@ -1,0 +1,30 @@
+{
+  "dataset_metadata": {
+    "target_text": "Śrī Camakaniṣad (Chamakam Anuvākas 1-11)",
+    "total_data_points": 175,
+    "distribution_profile": "Heavily Right-Skewed; 41.7% of data points concentrated at the 12-14 baseline floor"
+  },
+  "three_tiered_physiological_zones": [
+    {
+      "zone_id": 1,
+      "title": "Low-Load Steady Baseline",
+      "target_anuvakas": [1, 3, 6],
+      "respiratory_load_range_plu": "11.0 - 14.0",
+      "thematic_physiological_link": "Basic human bio-vital needs, food, fluids, and mental sensory stabilization; requires minimal subglottal pressure."
+    },
+    {
+      "zone_id": 2,
+      "title": "Mid-Load Transition Zone",
+      "target_anuvakas": [2, 7, 8, 9, 10],
+      "respiratory_load_range_plu": "15.0 - 24.0",
+      "thematic_physiological_link": "Activation of vital prāṇa-apāna-vyāna currents and extended domestic listings; requires moderate lung volume expansion."
+    },
+    {
+      "zone_id": 3,
+      "title": "High-Load Peak Regions",
+      "target_anuvakas": [4, 5, 11],
+      "respiratory_load_range_plu": "25.0 - 42.0",
+      "thematic_physiological_link": "High-intensity raw material listings and numerical progression sequences; forces maximum intercostal lung expansion."
+    }
+  ]
+}

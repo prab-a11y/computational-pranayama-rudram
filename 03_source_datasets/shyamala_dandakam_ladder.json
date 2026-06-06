@@ -1,0 +1,34 @@
+{
+  "text_metadata": {
+    "title": "Śyāmala Daṇḍakam",
+    "composition_style": "Continuous Exponentially Expanding Prose Poetry",
+    "respiratory_behavior": "Sustained Progressive Acceleration Incline Ladder"
+  },
+  "algorithmic_regional_metrics": {
+    "block_01_initialization_floor": {
+      "syllable_count": 26,
+      "respiratory_load_plu": 26.0,
+      "shastra_rule_compliance": "Matches the absolute rule of Sanskrit prosody that a Daṇḍakam line must legally exceed 26 syllables per metric phrase."
+    },
+    "block_04_prose_transition": {
+      "structural_phase": "Transition out of stanza formatting into the continuous stream",
+      "respiratory_load_plu": 34.0
+    },
+    "block_05_vo2_max_intercept": {
+      "structural_phase": "Multi-word tongue-twisting compounds (e.g., Kusumbha-viparājita)",
+      "respiratory_load_plu": 42.0
+    },
+    "block_08_breath_extension_wall": {
+      "structural_phase": "Longest cascading string of adjectives praising Goddess Mātaṅgī",
+      "respiratory_load_plu": 68.0
+    },
+    "block_09_peak_hypoxic_chokepoint": {
+      "structural_phase": "Maximum phrase compression forcing execution of residual expiratory volume",
+      "respiratory_load_plu": 82.0
+    },
+    "block_10_cardiovascular_cooldown": {
+      "structural_phase": "Explicit break out of prose ladder back into standard short verses (Jayati jayati bandhūka)",
+      "respiratory_load_plu": 18.0
+    }
+  }
+}

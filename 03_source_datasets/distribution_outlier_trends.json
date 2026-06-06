@@ -1,0 +1,6 @@
+{
+  "mean_load": 16.85,
+  "median_load": 15.0,
+  "mode_value": 13,
+  "outlier_threshold": ">28"
+}

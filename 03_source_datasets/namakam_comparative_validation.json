@@ -1,0 +1,23 @@
+{
+  "macro_statistical_comparison": {
+    "total_lines_namakam": 214,
+    "total_lines_chamakam": 175,
+    "ergometric_contrast": "Namakam requires 22% more total individual breath sequences.",
+    "mean_respiratory_load_namakam_plu": 24.96,
+    "mean_respiratory_load_chamakam_plu": 16.85,
+    "baseline_effort_variance": "Namakam average baseline effort is 50% higher than Chamakam.",
+    "median_cruising_altitude_namakam_plu": 23.00,
+    "median_cruising_altitude_chamakam_plu": 15.00,
+    "absolute_maximum_peak_namakam_plu": 126.00,
+    "absolute_maximum_peak_chamakam_plu": 42.00
+  },
+  "micro_structural_behavior_profiles": {
+    "chamakam_skewness": "Heavily right-skewed; baseline concentrations tightly locked between 12 and 14 accounting for 41.7% of the total text.",
+    "namakam_steady_state": "Sustained high-intensity state clustering between 17 and 32 requiring systemic wide lung expansion from inception.",
+    "namakam_extreme_anomalies": {
+      "line_34_spike_plu": 110.0,
+      "line_198_spike_plu": 126.0,
+      "mechanism": "Continuous unmetered Yajus prose chains requiring massive continuous vocalization without an intermediate inhalation pause."
+    }
+  }
+}

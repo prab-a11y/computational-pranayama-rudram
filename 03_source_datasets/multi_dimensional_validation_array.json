@@ -1,0 +1,82 @@
+[
+  {
+    "region_block": "Block 1 (0%-10%)",
+    "phase_title": "The Shock Inception",
+    "namakam_predicted_plu": 25.5,
+    "namakam_recorded_audio_plu": 25.8,
+    "chamakam_predicted_plu": 14.5,
+    "chamakam_recorded_audio_plu": 14.3
+  },
+  {
+    "region_block": "Block 2 (10%-20%)",
+    "phase_title": "Steady State Cardio Base",
+    "namakam_predicted_plu": 26.6,
+    "namakam_recorded_audio_plu": 26.1,
+    "chamakam_predicted_plu": 15.1,
+    "chamakam_recorded_audio_plu": 15.0
+  },
+  {
+    "region_block": "Block 3 (20%-30%)",
+    "phase_title": "The Anomaly Barrier",
+    "namakam_predicted_plu": 31.3,
+    "namakam_recorded_audio_plu": 29.5,
+    "chamakam_predicted_plu": 14.2,
+    "chamakam_recorded_audio_plu": 14.2
+  },
+  {
+    "region_block": "Block 4 (30%-40%)",
+    "phase_title": "Hill Climb Intercept",
+    "namakam_predicted_plu": 22.0,
+    "namakam_recorded_audio_plu": 22.4,
+    "chamakam_predicted_plu": 18.7,
+    "chamakam_recorded_audio_plu": 18.9
+  },
+  {
+    "region_block": "Block 5 (40%-50%)",
+    "phase_title": "Active Recovery Floor",
+    "namakam_predicted_plu": 19.3,
+    "namakam_recorded_audio_plu": 18.9,
+    "chamakam_predicted_plu": 14.4,
+    "chamakam_recorded_audio_plu": 14.1
+  },
+  {
+    "region_block": "Block 6 (50%-60%)",
+    "phase_title": "Running Recovery Phase",
+    "namakam_predicted_plu": 18.0,
+    "namakam_recorded_audio_plu": 18.2,
+    "chamakam_predicted_plu": 17.6,
+    "chamakam_recorded_audio_plu": 17.8
+  },
+  {
+    "region_block": "Block 7 (60%-70%)",
+    "phase_title": "Sustained Tissue Burnout",
+    "namakam_predicted_plu": 33.3,
+    "namakam_recorded_audio_plu": 33.1,
+    "chamakam_predicted_plu": 19.1,
+    "chamakam_recorded_audio_plu": 19.4
+  },
+  {
+    "region_block": "Block 8 (70%-80%)",
+    "phase_title": "Strength Endurance Push",
+    "namakam_predicted_plu": 28.5,
+    "namakam_recorded_audio_plu": 29.8,
+    "chamakam_predicted_plu": 16.3,
+    "chamakam_recorded_audio_plu": 16.9
+  },
+  {
+    "region_block": "Block 9 (80%-90%)",
+    "phase_title": "Pre-Climax Energy Gathering",
+    "namakam_predicted_plu": 27.2,
+    "namakam_recorded_audio_plu": 29.1,
+    "chamakam_predicted_plu": 14.9,
+    "chamakam_recorded_audio_plu": 15.6
+  },
+  {
+    "region_block": "Block 10 (90%-100%)",
+    "phase_title": "The Tabata Sprint Finish",
+    "namakam_predicted_plu": 31.9,
+    "namakam_recorded_audio_plu": 30.2,
+    "chamakam_predicted_plu": 23.5,
+    "chamakam_recorded_audio_plu": 22.9
+  }
+]
