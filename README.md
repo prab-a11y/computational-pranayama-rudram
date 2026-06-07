@@ -162,3 +162,7 @@ swiftc VedicNeuroParser.swift -o VedicNeuroParser
 This dataset is donated as an open-source asset for public research. Any institutional deployment, thesis exploration, or scientific publication utilizing this framework must provide formal academic attribution to the primary repository DOI secured via Zenodo.
 
 
+
+Change log:
+07th June 2026 - added missing README.md texts
+07th June 2026 - added MIT LICENSE file  MD5 (LICENSE) = 33a93ee3c50771b88bc3cba0ac1f5144
